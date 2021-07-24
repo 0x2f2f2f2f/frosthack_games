@@ -14,12 +14,26 @@ var moving = horizontal !=0 || vertical !=0;
 switch(state){ 
 case "idle": 
     if (moving) state = "move";
+	if (keyboard_check(ord("D")) || keyboard_check(vk_right)){
+	face = "right";
+}
+else if(keyboard_check(ord("S")) || keyboard_check(vk_down)){
+	face = "forward";	
+}
+else if(keyboard_check(ord("A")) || keyboard_check(vk_left)){
+	face = "left";	
+}
+else if(keyboard_check(ord("W")) || keyboard_check(vk_up)){
+	face = "backward";
+}
+
+sprite_index = asset_get_index("player_sprite_face_" + face + "_center");
+
 break; 
 case "move": 
     if (!moving) state = "idle"; 
 break;
 }
-
 
 //movement
 x += horizontal;

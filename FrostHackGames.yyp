@@ -26,7 +26,7 @@
     {"id":{"name":"player_sprite_face_backward_up","path":"sprites/player_sprite_face_backward_up/player_sprite_face_backward_up.yy",},"order":2,},
     {"id":{"name":"hot","path":"sprites/hot/hot.yy",},"order":3,},
     {"id":{"name":"block_tower_close","path":"sprites/block_tower_close/block_tower_close.yy",},"order":7,},
-    {"id":{"name":"level_select","path":"rooms/level_select/level_select.yy",},"order":0,},
+    {"id":{"name":"level_1","path":"rooms/level_1/level_1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"macOS","path":"options/mac/options_mac.yy",},
@@ -40,8 +40,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"level_select","path":"rooms/level_select/level_select.yy",},},
-    {"roomId":{"name":"level_select","path":"rooms/level_select/level_select.yy",},},
+    {"roomId":{"name":"level_1","path":"rooms/level_1/level_1.yy",},},
+    {"roomId":{"name":"level_1","path":"rooms/level_1/level_1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

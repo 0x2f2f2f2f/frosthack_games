@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "player_sprite_face_forward_center",
-    "path": "sprites/player_sprite_face_forward_center/player_sprite_face_forward_center.yy",
+    "name": "blue_knight_neutral",
+    "path": "sprites/blue_knight_neutral/blue_knight_neutral.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,7 +22,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":2,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Player",
+  "name": "enemy_knight_neutral",
   "tags": [],
   "resourceType": "GMObject",
 }

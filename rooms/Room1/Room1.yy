@@ -49,3 +49,4 @@
   "name": "Room1",
   "tags": [],
   "resourceType": "GMRoom",
+}

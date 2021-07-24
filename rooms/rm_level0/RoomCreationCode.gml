@@ -1,0 +1,1 @@
+global.path = path_level0;

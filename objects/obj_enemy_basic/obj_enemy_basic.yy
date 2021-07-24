@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_placeholder_64",
-    "path": "sprites/spr_placeholder_64/spr_placeholder_64.yy",
+    "name": "knight_blue_sword",
+    "path": "sprites/knight_blue_sword/knight_blue_sword.yy",
   },
   "solid": false,
   "visible": true,

@@ -16,6 +16,7 @@
     {"id":{"name":"blue_knight_sword_neutral","path":"sprites/blue_knight_sword_neutral/blue_knight_sword_neutral.yy",},"order":1,},
     {"id":{"name":"player_sprite_face_left_up","path":"sprites/player_sprite_face_left_up/player_sprite_face_left_up.yy",},"order":8,},
     {"id":{"name":"block_metal_plate_blue","path":"sprites/block_metal_plate_blue/block_metal_plate_blue.yy",},"order":8,},
+    {"id":{"name":"level_parent","path":"rooms/level_parent/level_parent.yy",},"order":2,},
     {"id":{"name":"enemy_path_level_1","path":"paths/enemy_path_level_1/enemy_path_level_1.yy",},"order":0,},
     {"id":{"name":"enemy","path":"sprites/enemy/enemy.yy",},"order":4,},
     {"id":{"name":"tree_5","path":"sprites/tree_5/tree_5.yy",},"order":4,},
@@ -64,6 +65,7 @@
     {"roomId":{"name":"level_1","path":"rooms/level_1/level_1.yy",},},
     {"roomId":{"name":"level_1","path":"rooms/level_1/level_1.yy",},},
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
+    {"roomId":{"name":"level_parent","path":"rooms/level_parent/level_parent.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

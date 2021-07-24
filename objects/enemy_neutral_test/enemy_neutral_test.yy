@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "enemy_knight_neutral",
+  "name": "enemy_neutral_test",
   "tags": [],
   "resourceType": "GMObject",
 }

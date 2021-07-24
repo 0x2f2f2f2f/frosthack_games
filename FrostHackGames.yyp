@@ -19,6 +19,7 @@
     {"id":{"name":"enemy","path":"sprites/enemy/enemy.yy",},"order":4,},
     {"id":{"name":"tree_5","path":"sprites/tree_5/tree_5.yy",},"order":4,},
     {"id":{"name":"block_metal_plate","path":"sprites/block_metal_plate/block_metal_plate.yy",},"order":3,},
+    {"id":{"name":"menu","path":"rooms/menu/menu.yy",},"order":1,},
     {"id":{"name":"tree_2","path":"sprites/tree_2/tree_2.yy",},"order":1,},
     {"id":{"name":"block_grey_black_bottom_left","path":"sprites/block_grey_black_bottom_left/block_grey_black_bottom_left.yy",},"order":12,},
     {"id":{"name":"player_sprite_face_left_down","path":"sprites/player_sprite_face_left_down/player_sprite_face_left_down.yy",},"order":7,},
@@ -60,6 +61,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"level_1","path":"rooms/level_1/level_1.yy",},},
     {"roomId":{"name":"level_1","path":"rooms/level_1/level_1.yy",},},
+    {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

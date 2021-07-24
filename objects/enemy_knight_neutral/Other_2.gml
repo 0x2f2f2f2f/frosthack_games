@@ -1,1 +1,3 @@
-instance_create_layer(-32, 226, "enemies", enemy_knight_neutral);
+/// @description create knight object on game start
+
+instance_create_layer(0, 196, "enemies", enemy_knight_neutral);

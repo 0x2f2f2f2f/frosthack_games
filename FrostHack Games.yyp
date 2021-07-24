@@ -78,7 +78,7 @@
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Towers.yy","order":1,"resourceVersion":"1.0","name":"Towers","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/Placeholders.yy","order":3,"resourceVersion":"1.0","name":"Placeholders","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Enemies.yy","order":3,"resourceVersion":"1.0","name":"Enemies","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Buttons.yy","order":5,"resourceVersion":"1.0","name":"Buttons","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Tilesets.yy","order":7,"resourceVersion":"1.0","name":"Tilesets","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Other.yy","order":9,"resourceVersion":"1.0","name":"Other","tags":[],"resourceType":"GMFolder",},

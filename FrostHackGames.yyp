@@ -38,6 +38,7 @@
     {"id":{"name":"player_sprite_face_forward_up","path":"sprites/player_sprite_face_forward_up/player_sprite_face_forward_up.yy",},"order":5,},
     {"id":{"name":"melt","path":"sprites/melt/melt.yy",},"order":5,},
     {"id":{"name":"tree_3","path":"sprites/tree_3/tree_3.yy",},"order":2,},
+    {"id":{"name":"enemy_knight_neutral","path":"objects/enemy_knight_neutral/enemy_knight_neutral.yy",},"order":0,},
     {"id":{"name":"player_sprite_face_backward_up","path":"sprites/player_sprite_face_backward_up/player_sprite_face_backward_up.yy",},"order":2,},
     {"id":{"name":"block_grey","path":"sprites/block_grey/block_grey.yy",},"order":11,},
     {"id":{"name":"hot","path":"sprites/hot/hot.yy",},"order":3,},

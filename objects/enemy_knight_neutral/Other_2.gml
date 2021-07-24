@@ -1,0 +1,1 @@
+var inst = instance_create_layer(x, y, "enemies", enemy_knight_neutral);

@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "knight_red_sword",
-    "path": "sprites/knight_red_sword/knight_red_sword.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

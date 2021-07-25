@@ -9,4 +9,4 @@ delay = 80;
 monsters = 0;
 wave = 0;
 money = 100;
-lifes = 10;
+lifes = 1;

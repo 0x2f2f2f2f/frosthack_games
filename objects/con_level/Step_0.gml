@@ -7,5 +7,5 @@ if(start){
 
 // Game Over
 if(lifes <= 0){
-	game_restart();
+	room_goto(defeat);
 }

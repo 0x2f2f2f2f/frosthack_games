@@ -22,6 +22,7 @@
     {"id":{"name":"spr_btn_exit","path":"sprites/spr_btn_exit/spr_btn_exit.yy",},"order":9,},
     {"id":{"name":"spr_ts_roguelike_kenneyNL","path":"sprites/spr_ts_roguelike_kenneyNL/spr_ts_roguelike_kenneyNL.yy",},"order":1,},
     {"id":{"name":"melt_object","path":"objects/melt_object/melt_object.yy",},"order":6,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":8,},
     {"id":{"name":"spr_projectile","path":"sprites/spr_projectile/spr_projectile.yy",},"order":1,},
     {"id":{"name":"player_facing_backwards","path":"sprites/player_facing_backwards/player_facing_backwards.yy",},"order":0,},
     {"id":{"name":"slow_word","path":"sprites/slow_word/slow_word.yy",},"order":5,},
@@ -73,6 +74,7 @@
   "Options": [
     {"name":"macOS","path":"options/mac/options_mac.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
   ],
   "isDnDProject": false,
   "isEcma": false,

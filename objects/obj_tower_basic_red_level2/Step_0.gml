@@ -4,10 +4,10 @@
 if(instance_exists(par_enemy)){
 	// If not on cooldown, (re)start the alarm
 	if(alarm[0] <= 0){
-		if instance_position(160, 480, slow_object) {
+		if instance_position(160, 544, slow_object) {
 			frequency = 0.5;
 		}
-		else if instance_position(160, 480, fast_object) {
+		else if instance_position(160, 544, fast_object) {
 			frequency = 2;
 		}
 		else {

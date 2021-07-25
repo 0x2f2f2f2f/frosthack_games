@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "par_tower_level2",
-    "path": "objects/par_tower_level2/par_tower_level2.yy",
+    "name": "par_tower",
+    "path": "objects/par_tower/par_tower.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -34,7 +34,7 @@
     "path": "folders/Objects/Towers.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_tower_basic_level2",
+  "name": "obj_tower_basic",
   "tags": [],
   "resourceType": "GMObject",
 }

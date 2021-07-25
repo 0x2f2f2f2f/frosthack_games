@@ -1,10 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
 if (keyboard_check(ord("D")) || keyboard_check(vk_right) || keyboard_check(ord("A")) || keyboard_check(vk_left)){
-	obj_moves = 0;
-	other.x += obj_horizontal; 	
+	other.x += horizontal; 	
 }
 else if(keyboard_check(ord("S")) || keyboard_check(vk_down) || keyboard_check(ord("W")) || keyboard_check(vk_up)){
-	obj_moves = 0;
-	other.y += obj_vertical; 
+	other.y += vertical; 
 }

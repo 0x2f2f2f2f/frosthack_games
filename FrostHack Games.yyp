@@ -56,6 +56,7 @@
     {"id":{"name":"con_level","path":"objects/con_level/con_level.yy",},"order":0,},
     {"id":{"name":"con_debug_info","path":"objects/con_debug_info/con_debug_info.yy",},"order":1,},
     {"id":{"name":"word_block_tile","path":"sprites/word_block_tile/word_block_tile.yy",},"order":0,},
+    {"id":{"name":"par_immovable_object","path":"objects/par_immovable_object/par_immovable_object.yy",},"order":8,},
     {"id":{"name":"ammo_object","path":"objects/ammo_object/ammo_object.yy",},"order":1,},
     {"id":{"name":"con_GUI","path":"objects/con_GUI/con_GUI.yy",},"order":2,},
     {"id":{"name":"con_blood","path":"objects/con_blood/con_blood.yy",},"order":3,},

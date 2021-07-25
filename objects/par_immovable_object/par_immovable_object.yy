@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "tree",
-    "path": "sprites/tree/tree.yy",
-  },
-  "solid": true,
+  "spriteId": null,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "par_immovable_object",
-    "path": "objects/par_immovable_object/par_immovable_object.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Words",
-    "path": "folders/Objects/Words.yy",
+    "name": "Parents",
+    "path": "folders/Objects/Parents.yy",
   },
   "resourceVersion": "1.0",
-  "name": "tree_object",
+  "name": "par_immovable_object",
   "tags": [],
   "resourceType": "GMObject",
 }

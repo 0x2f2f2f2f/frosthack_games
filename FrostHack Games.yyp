@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"player_facing_forward","path":"sprites/player_facing_forward/player_facing_forward.yy",},"order":3,},
     {"id":{"name":"spr_tower_basic","path":"sprites/spr_tower_basic/spr_tower_basic.yy",},"order":1,},
     {"id":{"name":"spr_tower_wooden","path":"sprites/spr_tower_wooden/spr_tower_wooden.yy",},"order":3,},
     {"id":{"name":"knight_red_sword","path":"sprites/knight_red_sword/knight_red_sword.yy",},"order":1,},
@@ -13,6 +14,7 @@
     {"id":{"name":"spr_sell","path":"sprites/spr_sell/spr_sell.yy",},"order":3,},
     {"id":{"name":"melt_word","path":"sprites/melt_word/melt_word.yy",},"order":6,},
     {"id":{"name":"spr_next_wave","path":"sprites/spr_next_wave/spr_next_wave.yy",},"order":5,},
+    {"id":{"name":"player_facing_left","path":"sprites/player_facing_left/player_facing_left.yy",},"order":1,},
     {"id":{"name":"spr_btn_level_selection","path":"sprites/spr_btn_level_selection/spr_btn_level_selection.yy",},"order":7,},
     {"id":{"name":"tree","path":"sprites/tree/tree.yy",},"order":0,},
     {"id":{"name":"is_word","path":"sprites/is_word/is_word.yy",},"order":3,},
@@ -21,6 +23,7 @@
     {"id":{"name":"spr_ts_roguelike_kenneyNL","path":"sprites/spr_ts_roguelike_kenneyNL/spr_ts_roguelike_kenneyNL.yy",},"order":1,},
     {"id":{"name":"melt_object","path":"objects/melt_object/melt_object.yy",},"order":6,},
     {"id":{"name":"spr_projectile","path":"sprites/spr_projectile/spr_projectile.yy",},"order":1,},
+    {"id":{"name":"player_facing_backwards","path":"sprites/player_facing_backwards/player_facing_backwards.yy",},"order":0,},
     {"id":{"name":"slow_word","path":"sprites/slow_word/slow_word.yy",},"order":5,},
     {"id":{"name":"spr_blood","path":"sprites/spr_blood/spr_blood.yy",},"order":3,},
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"order":5,},
@@ -51,6 +54,7 @@
     {"id":{"name":"con_blood","path":"objects/con_blood/con_blood.yy",},"order":7,},
     {"id":{"name":"btn_start_wave","path":"objects/btn_start_wave/btn_start_wave.yy",},"order":1,},
     {"id":{"name":"is_object","path":"objects/is_object/is_object.yy",},"order":2,},
+    {"id":{"name":"player_facing_right","path":"sprites/player_facing_right/player_facing_right.yy",},"order":2,},
     {"id":{"name":"btn_level_selection","path":"objects/btn_level_selection/btn_level_selection.yy",},"order":7,},
     {"id":{"name":"btn_exit","path":"objects/btn_exit/btn_exit.yy",},"order":9,},
     {"id":{"name":"btn_level","path":"objects/btn_level/btn_level.yy",},"order":11,},
@@ -113,6 +117,7 @@
     {"folderPath":"folders/Sprites/Blocks.yy","order":11,"resourceVersion":"1.0","name":"Blocks","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Words.yy","order":6,"resourceVersion":"1.0","name":"Words","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Trees.yy","order":12,"resourceVersion":"1.0","name":"Trees","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Player.yy","order":13,"resourceVersion":"1.0","name":"Player","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

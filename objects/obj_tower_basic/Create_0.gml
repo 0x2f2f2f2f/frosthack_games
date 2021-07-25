@@ -5,6 +5,10 @@ event_inherited();
 
 range = 150;
 frequency = 1;
-damage = 1;
-cost = 50;
-upgradecost = cost;
+
+if position_meeting(160, 480, tile) {
+	damage = 1;
+}
+else {
+	damage = 0;
+}

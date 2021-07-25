@@ -31,7 +31,6 @@
     {"id":{"name":"ammo_word","path":"sprites/ammo_word/ammo_word.yy",},"order":0,},
     {"id":{"name":"path_level0","path":"paths/path_level0/path_level0.yy",},"order":3,},
     {"id":{"name":"scr_next_wave","path":"scripts/scr_next_wave/scr_next_wave.yy",},"order":1,},
-    {"id":{"name":"scr_upgrade_tower","path":"scripts/scr_upgrade_tower/scr_upgrade_tower.yy",},"order":3,},
     {"id":{"name":"par_tower","path":"objects/par_tower/par_tower.yy",},"order":3,},
     {"id":{"name":"par_enemy","path":"objects/par_enemy/par_enemy.yy",},"order":5,},
     {"id":{"name":"enemy_object","path":"objects/enemy_object/enemy_object.yy",},"order":5,},

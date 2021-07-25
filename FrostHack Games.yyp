@@ -41,6 +41,7 @@
     {"id":{"name":"par_projectile","path":"objects/par_projectile/par_projectile.yy",},"order":7,},
     {"id":{"name":"obj_tower_basic","path":"objects/obj_tower_basic/obj_tower_basic.yy",},"order":5,},
     {"id":{"name":"obj_tower_wooden","path":"objects/obj_tower_wooden/obj_tower_wooden.yy",},"order":11,},
+    {"id":{"name":"pushable_object","path":"objects/pushable_object/pushable_object.yy",},"order":8,},
     {"id":{"name":"blue_knight","path":"objects/blue_knight/blue_knight.yy",},"order":1,},
     {"id":{"name":"slow_object","path":"objects/slow_object/slow_object.yy",},"order":4,},
     {"id":{"name":"obj_enemy_fast","path":"objects/obj_enemy_fast/obj_enemy_fast.yy",},"order":3,},

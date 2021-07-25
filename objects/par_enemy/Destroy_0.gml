@@ -1,7 +1,5 @@
 /// @description Add Money and Blood
 
-con_level.money += money;
-
 // Blood part
 var r = irandom_range(2,4);
 for(var i = 0; i < r; i++){

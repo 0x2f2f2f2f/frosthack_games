@@ -28,7 +28,7 @@
     "path": "folders/Objects/Controllers.yy",
   },
   "resourceVersion": "1.0",
-  "name": "send_to_home",
+  "name": "restart_game",
   "tags": [],
   "resourceType": "GMObject",
 }

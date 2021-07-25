@@ -7,7 +7,12 @@ if(instance_exists(par_enemy)){ // To prevent errors
 			// Create Projectile
 			var projectile = instance_create_layer(x+32,y+32,"Instances",obj_projectile);
 			projectile.angle = point_direction(projectile.x,projectile.y,enemy.x,enemy.y);
-			projectile.damage = damage;
+			if instance_position(192, 512, melt_object) {
+				projectile.damage = 1;
+			}
+			else {
+				projectile.damage = 0;
+			}
 		}
 	}
 }

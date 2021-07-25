@@ -18,7 +18,7 @@
   ],
   "parent": {
     "name": "Paths",
-    "path": "folders/Objects/Words/Paths.yy",
+    "path": "folders/Objects/Paths.yy",
   },
   "resourceVersion": "1.0",
   "name": "path_level1",
